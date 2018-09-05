@@ -15,3 +15,7 @@ Sample website with plenty of examples for Git training demos.
 Deployment can be on any web server or even local fil system.
 
 ## How To Contribute
+
+### Copyright
+
+2018 LL
