@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work together.
 
+Adding a line for the rebasing example!
+
 ## Introduction
 This is an example to show different parts
 of the Git repository and various commands 
